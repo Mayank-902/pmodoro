@@ -12,4 +12,4 @@ This is a simple Pomodoro application built using JavaScript. The application he
 # Acknowledgments
 - The application is inspired by the Pomodoro Technique developed by Francesco Cirillo.
 - The design and implementation were created by Mayank Raj.
-- Special thanks to the developers and contributors of the libraries and resources used in this project.
+
